@@ -1,0 +1,54 @@
+ID	Description
+1	New User: alinaaftab is inserted at: Jun  5 2022  4:13AM
+2	New User: murtazahaider is inserted at: Jun  5 2022  4:13AM
+3	New User: jessicapearson is inserted at: Jun  5 2022  4:13AM
+4	New User: nasconadmin is inserted at: Jun  5 2022  4:13AM
+5	New User: ryanthomas is inserted at: Jun  5 2022  4:13AM
+6	New Category: EE is inserted at: Jun  5 2022  4:13AM
+7	New Category: CS is inserted at: Jun  5 2022  4:13AM
+8	New Category: Business is inserted at: Jun  5 2022  4:13AM
+9	New Category: Social is inserted at: Jun  5 2022  4:13AM
+10	New Category: Sports is inserted at: Jun  5 2022  4:13AM
+11	New Event: Speed Wiring having id EE1 is inserted at: Jun  5 2022  4:13AM
+12	New Event: Bug Hunt having id CS1 is inserted at: Jun  5 2022  4:13AM
+13	New Event: Entrepreneurial Venture having id BS1 is inserted at: Jun  5 2022  4:13AM
+14	New Event: Auto Show having id SC1 is inserted at: Jun  5 2022  4:13AM
+15	New Event: Futsal having id SP1 is inserted at: Jun  5 2022  4:13AM
+16	New Event: Aero Wars having id EE2 is inserted at: Jun  5 2022  4:13AM
+17	New Event: Cyber Security Quiz having id CS2 is inserted at: Jun  5 2022  4:13AM
+18	New Event: Ad-Maniac having id BS2 is inserted at: Jun  5 2022  4:13AM
+19	New Event: NasCon got Challenge having id SC2 is inserted at: Jun  5 2022  4:13AM
+20	New Event: Basketball having id SP2 is inserted at: Jun  5 2022  4:13AM
+21	New Event: Robo Race having id EE3 is inserted at: Jun  5 2022  4:13AM
+22	New Event: Mobile App Development having id CS3 is inserted at: Jun  5 2022  4:13AM
+23	New Event: Marketing Plan having id BS3 is inserted at: Jun  5 2022  4:13AM
+24	New Event: English Poetry having id SC3 is inserted at: Jun  5 2022  4:13AM
+25	New Event: Cricket having id SP3 is inserted at: Jun  5 2022  4:13AM
+26	New User: adnantariq is inserted at: Jun  5 2022  4:13AM
+27	New User: ifrahqaiser is inserted at: Jun  5 2022  4:13AM
+28	New User: naveedahmed is inserted at: Jun  5 2022  4:13AM
+29	New User: ayesha.bano is inserted at: Jun  5 2022  4:13AM
+30	New User: sidrahsh is inserted at: Jun  5 2022  4:13AM
+31	New User: hassanraza is inserted at: Jun  5 2022  4:13AM
+32	New User: sumairsajjad is inserted at: Jun  5 2022  4:13AM
+33	New User: bashirabbasi is inserted at: Jun  5 2022  4:13AM
+34	New Food Deal: 3 B, 3F, 3D is inserted at: Jun  5 2022  4:13AM
+35	New Food Deal: 4 B, 4F, 4D is inserted at: Jun  5 2022  4:13AM
+36	New Food Deal: 1 B, 1F, 1D is inserted at: Jun  5 2022  4:13AM
+37	New Participant_Team : A Team is inserted at: Jun  5 2022  4:13AM
+38	New Participant_Team : PrimeX is inserted at: Jun  5 2022  4:13AM
+39	New Participant : Mujtaba Haider with team detail Mujtaba is inserted at: Jun  5 2022  4:13AM
+40	New Participant : Alina Aftab with team detail Alina is inserted at: Jun  5 2022  4:13AM
+41	New Participant : Zyena Kamran with team detail Zyena is inserted at: Jun  5 2022  4:13AM
+42	New Participant : Abdullah Tariq with team detail Abullah is inserted at: Jun  5 2022  4:13AM
+43	New Sponsors_Packages : Bronze is inserted at: Jun  5 2022  4:13AM
+44	New Sponsors_Packages : Silver is inserted at: Jun  5 2022  4:13AM
+45	New Sponsors_Packages : Gold is inserted at: Jun  5 2022  4:13AM
+46	New Student_Body having id  : 18I0902 is inserted at: Jun  5 2022  4:13AM
+47	New Student_Body having id  : 18I2022 is inserted at: Jun  5 2022  4:13AM
+48	New Student_Body having id  : 18I0933 is inserted at: Jun  5 2022  4:13AM
+49	New Student_Body having id  : 18I0707 is inserted at: Jun  5 2022  4:13AM
+50	New Student_Body having id  : 19I0821 is inserted at: Jun  5 2022  4:13AM
+51	New Student_Body having id  : 19I0830 is inserted at: Jun  5 2022  4:13AM
+52	New Student_Body having id  : 19I2301 is inserted at: Jun  5 2022  4:13AM
+53	New Student_Body having id  : 19I0326 is inserted at: Jun  5 2022  4:13AM

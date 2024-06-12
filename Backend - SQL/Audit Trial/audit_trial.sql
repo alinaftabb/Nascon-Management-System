@@ -1,0 +1,10 @@
+use NasCon;
+select info from log_Admin;
+select info from log_Category;
+select info from log_Event;
+select info from log_Faculty_Mentor;
+select info from log_FoodDeal;
+select info from log_Participant_Team;
+select info from log_Participant;
+select info from log_Sponsors_Packages;
+select info from log_Student_Body;
