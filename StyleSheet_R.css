@@ -1,0 +1,214 @@
+﻿* {
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+}
+
+body {
+    height: 100%;
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    background-attachment: fixed;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav a:hover {
+    background: linear-gradient(#ddd,transparent);
+    color: black;
+    font: bold;
+    font-size: 23px;
+}
+
+/* Add a color to the active/current link */
+.nav a.active {
+    background: linear-gradient(rgb(0 47 134),transparent);
+    color: white;
+}
+
+.nav h2 {
+    font-size: 30px;
+    position: absolute;
+    padding: 1.95%;
+    color: floralwhite;
+    padding-left: 7%;
+}
+
+.nav {
+    background: linear-gradient(rgb(14 88 114),transparent);
+    overflow: hidden;
+    top: 50%;
+}
+
+.table1 {
+    margin-top: 12.5%;
+    margin-left: 18.85%;
+    margin-right: 18.85%;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    background: rgb(125 206 239);
+    border-block: solid;
+}
+
+.table2 {
+    margin-top: 12.5%;
+    margin-left: 40.7%;
+    margin-right: 40.7%;
+    color: black;
+    font-size: 22px;
+    text-align: center;
+    background: rgb(125 206 239);
+    border-block: solid;
+}
+
+.table3 {
+    margin-top: 12.5%;
+    margin-left: 20.7%;
+    margin-right: 20.7%;
+    color: black;
+    font-size: 22px;
+    text-align: center;
+    background: rgb(125 206 239);
+    border-block: solid;
+}
+
+.table4 {
+    margin-top: 12.5%;
+    margin-left: 37.5%;
+    margin-right: 37%;
+    color: black;
+    font-size: 22px;
+    text-align: center;
+    background: rgb(125 206 239);
+    border-block: solid;
+}
+
+.table5 {
+    margin-left: 36%;
+    margin-right: 36%;
+    color: black;
+    font-size: 22px;
+    text-align: center;
+    background: rgb(125 206 239);
+    border-block: solid;
+}
+
+.table6 {
+    margin-left: 35.15%;
+    margin-right: 35.15%;
+    color: black;
+    font-size: 22px;
+    text-align: center;
+    background: rgb(125 206 239);
+    border-block: solid;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+.table7 {
+    margin-left: 37.55%;
+    margin-right: 37.55%;
+    color: black;
+    font-size: 22px;
+    text-align: center;
+    background: rgb(125 206 239);
+    border-block: solid;
+}
+
+.table8 {
+    margin-top: 7%;
+    margin-left: 24%;
+    margin-right: 24%;
+    color: black;
+    font-size: 22px;
+    text-align: center;
+    background: rgb(125 206 239);
+    border-block: solid;
+}
+
+.table9 {
+    margin-top: 7%;
+    margin-left: 18.96%;
+    margin-right: 18.96%;
+    color: black;
+    font-size: 22px;
+    text-align: center;
+    background: rgb(125 206 239);
+    border-block: solid;
+}
+
+.table10 {
+    margin-top: 7%;
+    margin-left: 12.6%;
+    margin-right: 12.6%;
+    color: black;
+    font-size: 22px;
+    text-align: center;
+    background: rgb(125 206 239);
+    border-block: solid;
+}
+
+.table11 {
+    margin-top: 7%;
+    margin-left: 28%;
+    margin-right: 27.9%;
+    color: black;
+    font-size: 22px;
+    text-align: center;
+    background: rgb(125 206 239);
+    border-block: solid;
+}
+
+.table12 {
+    margin-top: 7%;
+    margin-left: 35.88%;
+    margin-right: 35.88%;
+    color: black;
+    font-size: 22px;
+    text-align: center;
+    background: rgb(125 206 239);
+    border-block: solid;
+}
+
+.table13 {
+    margin-top: 7%;
+    margin-left: 21%;
+    margin-right: 21%;
+    color: black;
+    font-size: 22px;
+    text-align: center;
+    background: rgb(125 206 239);
+    border-block: solid;
+}
+
+.logo h2 {
+    position: center;
+    padding: 01%;
+}
+
+.logo {
+    float: left;
+    width: 3.75%;
+    padding-right: 3%;
+    padding-left: 1%;
+    padding-top: 0.75%;
+    padding-bottom: 1%;
+}
+
+.nav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding-top: 1.95%;
+    padding-bottom: 1.95%;
+    padding-right: 1%;
+    padding-left: 1%;
+    text-decoration: none;
+    font-size: 20px
+}

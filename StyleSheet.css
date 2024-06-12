@@ -1,0 +1,412 @@
+﻿* {
+    margin: 0%;
+}
+
+.loginbox {
+    float: none;
+    width: 25%;
+    background-color: white;
+    position: absolute;
+    padding-right: 2%;
+    padding-left: 2%;
+    padding-top: 7%;
+    padding-bottom: 3%;
+    top: 170%;
+    left: 35%;
+    border-radius: 5%;
+}
+
+.heading {
+    color: white;
+    font-size: large;
+    float: left;
+}
+
+.loginboxx2 {
+    float: none;
+    width: 25%;
+    background-color: rgb(108 195 205);
+    position: absolute;
+    padding-right: 2%;
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    top: 130%;
+    left: 35%;
+    border-radius: 5%;
+}
+
+.loginboxx1 {
+    float: none;
+    width: 25%;
+    background-color: rgb(108 195 205);
+    position: absolute;
+    padding-right: 2%;
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    top: 130%;
+    left: 5%;
+    border-radius: 5%;
+}
+
+.loginboxx3 {
+    float: none;
+    width: 25%;
+    background-color: rgb(108 195 205);
+    position: absolute;
+    padding-right: 2%;
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    top: 130%;
+    left: 65%;
+    border-radius: 5%;
+}
+
+h1 {
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+    padding: 0;
+    font-weight: bold;
+}
+
+body {
+    height: 100%;
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    background-attachment: fixed;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.details p {
+    padding-left: 2%;
+    padding-top: 4.5%;
+    font-size: 16px;
+    color: white;
+}
+
+.details h3 {
+    color: lightblue;
+    font: bold;
+}
+
+.logo h2 {
+    position: center;
+    padding: 01%;
+}
+
+.logo {
+    float: left;
+    width: 3.75%;
+    padding-right: 3%;
+    padding-left: 1%;
+    padding-top: 0.75%;
+    padding-bottom: 1%;
+}
+
+.nav h2 {
+    font-size: 30px;
+    position: absolute;
+    padding: 1.95%;
+    color: floralwhite;
+    padding-left: 7%;
+}
+
+.nav {
+    background: linear-gradient(rgb(14 88 114),transparent);
+    overflow: hidden;
+    top: 50%;
+}
+
+.nav1 {
+    background: linear-gradient(rgb(14 88 114),transparent);
+    overflow: hidden;
+}
+
+.details {
+    padding-top: 3%;
+    float: left;
+    width: 60%;
+}
+
+.form1 {
+    float: right;
+    width: 32%;
+    background: rgb(246 246 246);
+    font-size: 12px;
+    padding: 5% 1% 1% 1%;
+    border-radius: 50px;
+}
+
+.ava {
+    position: absolute;
+    border-radius: 100%;
+    width: 12%;
+    height: 24%;
+    top: -10%;
+    right: 15%;
+    position: center;
+}
+
+.ava1 {
+    position: absolute;
+    border-radius: 100%;
+    width: 12%;
+    height: 14%;
+    top: -6%;
+    right: 15%;
+    position: center;
+}
+
+.ava2 {
+    position: absolute;
+    border-radius: 100%;
+    width: 43%;
+    height: 40%;
+    top: -20%;
+    right: 28%;
+    position: center;
+}
+
+.form1 h3 {
+    text-align: center;
+}
+
+.input {
+    border: none;
+    height: 25px;
+    background: linear-gradient(white,rgb(167 223 244));
+    width: 100%;
+    outline: none;
+    border-bottom: 2px solid rgb(39 95 142);
+}
+
+.input0 {
+    border: none;
+    height: 25px;
+    background: linear-gradient(white,rgb(206 162 236));
+    width: 100%;
+    outline: none;
+    border-bottom: 2px solid rgb(39 95 142);
+}
+
+.loginbox a {
+    text-align: center;
+    font-size: 11px;
+}
+
+    .loginbox a:hover {
+        font-size: 13px;
+        color: blue;
+    }
+
+.main-body {
+    position: absolute;
+    padding-right: 7%;
+    padding-left: 7%;
+    padding-top: 1%;
+}
+
+.btn {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    display: block;
+    text-align: center;
+    cursor: pointer;
+    text-transform: uppercase;
+    outline: none;
+    overflow: hidden;
+    position: relative;
+    color: #fff;
+    border-radius: 90%;
+    font-weight: 700;
+    font-size: 15px;
+    background-color: #222;
+    padding: 12px 25%;
+    margin: 0 auto;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.20);
+    top: 0px;
+    left: 0px;
+    width: -110px;
+}
+
+    .btn span {
+        position: relative;
+        z-index: 1;
+    }
+
+    .btn:after {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 0;
+        height: 490%;
+        width: 140%;
+        background: rgb(39 95 142);
+        -webkit-transition: all .5s ease-in-out;
+        transition: all .5s ease-in-out;
+        -webkit-transform: translateX(-98%) translateY(-25%) rotate(45deg);
+        transform: translateX(-98%) translateY(-25%) rotate(45deg);
+    }
+
+    .btn:hover:after {
+        -webkit-transform: translateX(-9%) translateY(-25%) rotate(45deg);
+        transform: translateX(-9%) translateY(-25%) rotate(45deg);
+    }
+
+.form1 {
+    float: right;
+    width: 32%;
+    background: white;
+    font-size: 12px;
+    padding: 5% 1% 1% 1%;
+    border-radius: 50px;
+}
+
+.nav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding-top: 1.95%;
+    padding-bottom: 1.95%;
+    padding-right: 1%;
+    padding-left: 1%;
+    text-decoration: none;
+    font-size: 20px
+}
+
+.nav1 a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 4%;
+    padding-right: 5.6%;
+    padding-left: 5.6%;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.gd {
+    padding: 20%;
+}
+
+.head {
+    padding: 10%;
+    font-size: 100px;
+    color: white;
+}
+
+/* Change the color of links on hover */
+.nav a:hover {
+    background: linear-gradient(#ddd,transparent);
+    color: black;
+    font: bold;
+    font-size: 23px;
+}
+
+/* Add a color to the active/current link */
+.nav a.active {
+    background: linear-gradient(rgb(0 47 134),transparent);
+    color: white;
+}
+
+.nav1 a:hover {
+    background: linear-gradient(#ddd,transparent);
+    color: black;
+    font: bold;
+    font-size: 23px;
+}
+
+/* Add a color to the active/current link */
+.nav1 a.active {
+    background: linear-gradient(rgb(0 47 134),transparent);
+    color: white;
+}
+
+.sidebar {
+    width: 20%;
+    text-align: center;
+    background-color: rgb(108 195 205);
+    height: 100%;
+    position: fixed;
+    overflow: hidden;
+}
+
+    /* Sidebar links */
+    .sidebar a {
+        display: block;
+        color: black;
+        padding: 10%;
+        font-size: 19px;
+        text-decoration: none;
+    }
+
+    .sidebar p {
+        font-size: 20px;
+        font-weight: bold;
+        color: white;
+        padding: 13%;
+        background: linear-gradient(rgb(0 47 134),rgb(108 195 205));
+    }
+    /* Active/current link */
+    .sidebar a.active {
+        background-color: #04AA6D;
+        color: white;
+    }
+
+    /* Links on mouse-over */
+    .sidebar a:hover:not(.active) {
+        background-color: rgb(14 88 114);
+        color: white;
+    }
+
+.query {
+    width: 75%;
+    height: 100%;
+    position: absolute;
+    padding-left: 23%;
+}
+
+    .query a {
+        color: white;
+        font-size: 19px;
+        text-decoration: none;
+    }
+
+        .query a:hover {
+            font-size: 22px;
+            color: lightblue;
+        }
+
+.op {
+    padding: 5%;
+}
+
+ul {
+    list-style: none; /* Remove default bullets */
+}
+
+ol {
+    list-style: none; /* Remove default bullets */
+}
+
+ul li::before {
+    content: "\21A0"; /* Add content: \2022 is the CSS Code/unicode for a bullet */
+    color: white; /* Change the color */
+    padding: 1%;
+    font-weight: bold; /* If you want it to be bold */
+    display: inline-block; /* Needed to add space between the bullet and the text */
+    width: 2em; /* Also needed for space (tweak if needed) */
+    margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
+
+/*display:flex;
+align-items:center;*/
